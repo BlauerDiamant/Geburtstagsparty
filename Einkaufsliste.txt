@@ -2,3 +2,4 @@ Chips
 Kekse
 Cola
 Sprite
+Fanta
